@@ -1,0 +1,8 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: AA4B-7728
+
+ Directorio de C:\Users\David\Documents\GitHub\NikonHacker\D4
+
+13/03/2021  14:28                 0 dirlist.txt
+               1 archivos              0 bytes
+               0 dirs  164.704.346.112 bytes libres
